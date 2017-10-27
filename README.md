@@ -1,3 +1,5 @@
-# University
-
-Hello, this is my repository with univer labs.
+# Java
+Версия java: 1.8
+Преподаватель: Аристаева Ольга Цереновна
+Выполнил: Митюшин Дмитрий Анатольевич 
+7 вариант
